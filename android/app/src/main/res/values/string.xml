@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocialLogin</string>
+    <string name="facebook_app_id">1025101598197365</string>\
+    <string name="fb_login_protocal_sheme">fb1025101598197365</string>
+</resources>
